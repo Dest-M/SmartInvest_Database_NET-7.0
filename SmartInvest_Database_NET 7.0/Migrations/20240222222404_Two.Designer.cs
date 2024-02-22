@@ -10,8 +10,8 @@ using SmartInvest_DataBase;
 namespace SmartInvest_Database_NET_7._0.Migrations
 {
     [DbContext(typeof(Database))]
-    [Migration("20240212002419_InitCreate")]
-    partial class InitCreate
+    [Migration("20240222222404_Two")]
+    partial class Two
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
